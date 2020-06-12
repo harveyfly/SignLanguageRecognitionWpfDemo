@@ -2,10 +2,10 @@
 + **使用C#基于.Net开发的WPF中文手语词识别应用程序**
 
 ## 应用界面
-![](https://yesgithub-1254021701.cos.ap-beijing.myqcloud.com/ui.png)
+![](resource/gui.png)
 
 ## 应用程序整体功能模块
-![](https://yesgithub-1254021701.cos.ap-beijing.myqcloud.com/SLRAPP.png)
+![](resource/content.png)
 
 ## 开发环境
 + Windows 10
